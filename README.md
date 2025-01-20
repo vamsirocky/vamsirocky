@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on MNC's
-- 📫 How to reach me 9701061717
+- 📫 How to reach me +91-9701061717 and +353-873567508
 
 <!---
 vamsirocky/vamsirocky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
