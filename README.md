@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vamsirocky
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on MNC's
+- 🌱 I’m currently working with React
+- 💞️ I’m looking to gain more knowledge.
 - 📫 How to reach me +91-9701061717 and +353-873567508
 
 <!---
